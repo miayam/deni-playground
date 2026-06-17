@@ -1,0 +1,16 @@
+{
+  "name": "deni-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "shopify theme dev --store deni-playground.myshopify.com",
+    "pull": "shopify theme pull --store deni-playground.myshopify.com",
+    "push": "shopify theme push --store deni-playground.myshopify.com"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.1"
+}
